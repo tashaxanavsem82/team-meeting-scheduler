@@ -1,7 +1,7 @@
 {
   "name": "team-meeting-scheduler",
   "version": "1.0.0",
-  "description": "A web application that simplifies scheduling team meetings by integrating with calendars and enabling participants to propose and vote on time slots.",
+  "description": "A web application that simplifies scheduling team meetings by integrating with calendars, allowing participants to propose and vote on time slots, and managing availability.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

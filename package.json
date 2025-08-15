@@ -16,5 +16,7 @@
   },
   "devDependencies": {
     "eslint": "^7.12.1"
-  }
+  },
+  "keywords": ["meeting", "scheduler", "calendar", "team"],
+  "license": "MIT"
 }

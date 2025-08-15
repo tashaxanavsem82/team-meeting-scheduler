@@ -21,6 +21,6 @@ mongoose.connect(process.env.MONGO_URI, {
 }).catch(err => console.error(err));
 
 // Placeholder for routes
-dapp.get('/', (req, res) => {
+app.get('/', (req, res) => {
     res.send('Welcome to the Team Meeting Scheduler API');
 });

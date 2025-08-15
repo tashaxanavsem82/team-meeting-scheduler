@@ -18,5 +18,9 @@
     "eslint": "^8.20.0"
   },
   "keywords": ["meeting", "scheduler", "calendar", "team"],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/team-meeting-scheduler.git"
+  }
 }
